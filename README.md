@@ -1,4 +1,4 @@
-# API Rate Limiter & Abuse Control
+# API Rate Limiter 
 
 A Redis-backed API rate limiter built using Node.js and TypeScript to protect backend APIs from excessive and abusive traffic.
 
